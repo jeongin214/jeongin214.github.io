@@ -33,7 +33,7 @@ li {
 }
 
 .container {
-  height: 100%;
+  height: 90%;
   background-color: #ffffff;
   margin: auto;
   padding: 20px 30px 30px 30px
@@ -69,4 +69,13 @@ a:hover {
 
 a:active {
   color: pink;
+}
+
+.footer {
+color: black;
+font-size: 15px;
+text-align: center;
+background-color: #ffffff;
+margin: auto;
+padding: 20px 30px 30px 30px;
 }
