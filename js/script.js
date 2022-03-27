@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(){
 
+    alert("hi");
+
     var sangyeon = {month: 11, day: 4, name: '상연'};
     var jacop = {month: 5, day: 30, name: '제이콥'};
     var younghoon = {month: 8, day: 8, name: '영훈'};
