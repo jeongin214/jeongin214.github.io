@@ -51,6 +51,10 @@ li {
  margin-left: 5px;
 }
 
+.title-image {
+ width: 60px;
+}
+
 a {
   text-decoration: none;
 }
