@@ -1,6 +1,8 @@
-document.addEventListener("DOMContentLoaded", function(){
+alert("hi1");
 
-    alert("hi");
+function init(){
+
+    alert("hi2");
 
     var sangyeon = {month: 11, day: 4, name: '상연'};
     var jacop = {month: 5, day: 30, name: '제이콥'};
@@ -65,4 +67,4 @@ document.addEventListener("DOMContentLoaded", function(){
         document.getElementById("titleImage").src = "images/e.jpg";
     }
     */
-});
+};
